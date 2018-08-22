@@ -16,7 +16,7 @@ Required:
 - None
 
 Recommended: 
-- [Secondary Analysis of EHRs](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
+- [Secondary Analysis of Electronic Health Records](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
 
 ## Topics Covered
 - Machine Learning for Healthcare
