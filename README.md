@@ -13,13 +13,17 @@ This course provides a comprehensive, practical introduction to the intersection
 
 ## Textbooks
 Required:
-- TODO
+- None
 
 Recommended: 
-- TODO
+- [Secondary Analysis of EHRs](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
 
 ## Topics Covered
-- TODO
+- Machine Learning for Healthcare
+- Early Disease Detection
+- Electronic Health Records
+- Telemedicine
+- Mental Health
 
 ## Grading
 Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
@@ -30,6 +34,9 @@ Your final course grade will be determined according to the following percentage
 
 | Percentage | Title | Description |
 | ------------- | -----|-------- |
+| 20% | Quizzes | We will regularly have quizzes in class based on readings from the previous week or in-class slides/lecture. |
+| 40% | Codelabs | Codelabs will be centered around analyzing specific datasets for a domain we cover in class. |
+| 40% | Final Project | The final project will be an original machine-learning model for a unique dataset in the healthcare domain. Students may draw inspiration from existing research papers, but must analyze the dataset themselves. All students will present their results at the end of the semester. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests
 will be considered afterwards.
@@ -38,9 +45,24 @@ will be considered afterwards.
 
 | Week | Topic | Assignment |
 | ----|----|----- |
+| 1 (8/31) | Syllabus Week + Intro to ML Algorithms | |
+| 2 (9/7) | Machine Learning for Healthcare | Quiz 1 |
+| 3 (9/14) | Early Disease Detection | Quiz 2, Codelab 1 OUT |
+| 4 (9/21) | Case Study: Early Disease Detection | |
+| 5 (9/28) | Electronic Health Records | Quiz 3, Codelab 1 DUE |
+| 6 (10/5) | Case Study: Electronic Health Records | |
+| 7 (10/12) |  Drug Discovery | Quiz 4, Codelab 2 OUT |
+| 8 (10/19) | Case Study: Drug Discovery | |
+| 9 (10/26) | Telemedicine | Quiz 5, Codelab 2 DUE |
+| 10 (11/2) | Case Study: Telemedicine | Final Project OUT |
+| 11 (11/9) | Mental Health | Quiz 6, |
+| 12 (11/16) | Case Study: Mental Health | |
+| 13 (11/23) | THANKSGIVING BREAK | |
+| 14 (11/30) | Guest Speaker + Presentation Prep | |
+| 15 (12/7) | Final Presentations | Final Project DUE |
 
 ## Projects
-TODO
+The projects are meant to get you familiar with the techniques used to analyze healthcare datasets. Projects will focus on applying machine-learning models to domains such as early disease detection, electronic health records, and drug discovery. The projects will be implemented in Python for simplicity.
 
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should
