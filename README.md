@@ -22,6 +22,7 @@ Recommended:
 - Machine Learning for Healthcare
 - Early Disease Detection
 - Electronic Health Records
+- Drug Discovery
 - Telemedicine
 - Mental Health
 
