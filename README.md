@@ -13,7 +13,7 @@ This course provides a comprehensive, practical introduction to the intersection
 
 ## Textbooks
 Required:
-- None
+- [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
 
 Recommended: 
 - [Secondary Analysis of Electronic Health Records](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
