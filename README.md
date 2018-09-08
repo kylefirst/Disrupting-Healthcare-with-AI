@@ -11,9 +11,10 @@ CSIC 2118
 ## Course Description
 This course provides a comprehensive, practical introduction to the intersection of machine learning and different challenges in healthcare. Students will apply basic predictive modeling techniques to fields such as early detection of disease, telemedicine, and mental health. Prior knowledge of biology is not required but a basic understanding of Python and/or machine learning techniques is recommended.
 
-## Textbooks
+## Reading List
 Required:
 - [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
+- [7 applications of machine learning in pharma and medicine](https://www.techemergence.com/machine-learning-in-pharma-medicine/) by Daniel Faggella
 
 Recommended: 
 - [Secondary Analysis of Electronic Health Records](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
@@ -46,8 +47,8 @@ will be considered afterwards.
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (8/31) | Syllabus Week + Intro to ML Algorithms | |
-| 2 (9/7) | Machine Learning for Healthcare | Quiz 1 |
+| 1 (8/31) | Syllabus Week + Intro to ML Algorithms | [Reading](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) |
+| 2 (9/7) | Machine Learning for Healthcare | Quiz 1, [Reading](https://www.techemergence.com/machine-learning-in-pharma-medicine/) |
 | 3 (9/14) | Early Disease Detection | Quiz 2, Codelab 1 OUT |
 | 4 (9/21) | Case Study: Early Disease Detection | Quiz 3 |
 | 5 (9/28) | Electronic Health Records | Quiz 4, Codelab 1 DUE |
@@ -76,10 +77,10 @@ Dr. Max Leiserson - mdml@cs.umd.edu
 TA(s):
 
 Kyle Liu - kliu1234@umd.edu
-- Office Hours: TBD
+- Office Hours: MW 2:00 - 3:00PM in Startup Shell (387 Technology Dr.)
   
 Sanna Madan - smadan12@umd.edu
-- Office Hours: TBD
+- Office Hours: MW 2:00-3:00PM in Startup Shell (387 Technology Dr.)
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
