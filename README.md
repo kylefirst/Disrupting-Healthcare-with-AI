@@ -17,6 +17,7 @@ Required:
 - [7 applications of machine learning in pharma and medicine](https://www.techemergence.com/machine-learning-in-pharma-medicine/) by Daniel Faggella
 
 Recommended: 
+- [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) by [Maverick Lin](https://github.com/ml874)
 - [Secondary Analysis of Electronic Health Records](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
 
 ## Topics Covered
