@@ -11,13 +11,10 @@ CSIC 2118
 ## Course Description
 This course provides a comprehensive, practical introduction to the intersection of machine learning and different challenges in healthcare. Students will apply basic predictive modeling techniques to fields such as early detection of disease, telemedicine, and mental health. Prior knowledge of biology is not required but a basic understanding of Python and/or machine learning techniques is recommended.
 
-## Reading List
-Required:
+## List of Recommended Resources
 - [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
-- [7 applications of machine learning in pharma and medicine](https://www.techemergence.com/machine-learning-in-pharma-medicine/) by Daniel Faggella
-
-Recommended: 
 - [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) by [Maverick Lin](https://github.com/ml874)
+- [Supervised Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning#) by Stanford CS 229 Machine Learning
 - [Secondary Analysis of Electronic Health Records](https://www.springer.com/us/book/9783319437408) by MIT Critical Data
 
 ## Topics Covered
@@ -29,7 +26,7 @@ Recommended:
 - Mental Health
 
 ## Grading
-Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
+Grades will be maintained on <a href="https://www.elms.umd.edu/">ELMS</a>.
 
 You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
 
