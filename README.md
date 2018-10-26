@@ -53,8 +53,8 @@ will be considered afterwards.
 | 6 (10/5) | Case Study: Electronic Health Records | Quiz 5 |
 | 7 (10/12) |  Drug Discovery | Quiz 6, Codelab 2 OUT |
 | 8 (10/19) | Case Study: Drug Discovery | Quiz 7 |
-| 9 (10/26) | Telemedicine | Quiz 8, Codelab 2 DUE |
-| 10 (11/2) | Case Study: Telemedicine | Quiz 9, Final Project OUT |
+| 9 (10/26) | Tuning ML Models | Codelab 2 DUE |
+| 10 (11/2) | TBD | Quiz 9, Final Project OUT |
 | 11 (11/9) | Mental Health | Quiz 10 |
 | 12 (11/16) | Case Study: Mental Health | Quiz 11 |
 | 13 (11/23) | THANKSGIVING BREAK | |
