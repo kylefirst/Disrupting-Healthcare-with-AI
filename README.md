@@ -54,8 +54,8 @@ will be considered afterwards.
 | 7 (10/12) |  Drug Discovery | Quiz 6, Codelab 2 OUT |
 | 8 (10/19) | Case Study: Drug Discovery | Quiz 7 |
 | 9 (10/26) | Tuning ML Models | Codelab 2 DUE |
-| 10 (11/2) | TBD | Quiz 9, Final Project OUT |
-| 11 (11/9) | Mental Health | Quiz 10 |
+| 10 (11/2) | Differential Privacy | Quiz 9 |
+| 11 (11/9) | Mental Health | Quiz 10, Final Project OUT |
 | 12 (11/16) | Case Study: Mental Health | Quiz 11 |
 | 13 (11/23) | THANKSGIVING BREAK | |
 | 14 (11/30) | Guest Speaker + Presentation Prep | |
