@@ -25,26 +25,25 @@ The structure of your analysis will be similar to the past two codelabs you have
 There are 4 separate steps listed below. Each section will be worth 20% of the project grade.
 
 | Data Preprocessing | 20%
-- Remove all null values and make sure all data fields are valid
-- convert categorical variable to indicator variables
-- understands labels for fields and what results represent
+* Remove all null values and make sure all data fields are valid
+* convert categorical variable to indicator variables
+* understands labels for fields and what results represent
  |
 | --- | --- |
 | Data Visualization/Exploration | 20%
-- Identify the feature breakdown of your dataset (number of malign/benign patients, male/females/age range etc.)
-- Find linear correlations between features (You can use the charting libraries we provided in previous codelabs or ask us)
-
-- At least 5 graphs including a covariance correlation.
+* Identify the feature breakdown of your dataset (number of malign/benign patients, male/females/age range etc.)
+* Find linear correlations between features (You can use the charting libraries we provided in previous codelabs or ask us)
+* At least 5 graphs including a covariance correlation.
  |
 | Feature Selection | 20%
-- Select features to train/tune based on previous step
-- Explain why you chose these features to tune (you do not need to remove these right away, may impact accuracies)
+* Select features to train/tune based on previous step
+* Explain why you chose these features to tune (you do not need to remove these right away, may impact accuracies)
  |
 | Machine Learning | 20%
-- Select at least three binary classifier models to tune (logistic/linear regression, random forest, SVM, decision trees, naive bayes, etc).
-- Tune parameters and features (You can start off with training on all features)
-- Test resulting accuracies with cross validation
-- Explain your results, which models performed the best with tuning? (identify the bias/variance tradeoff for each model and select the best one at the end of tuning).
+* Select at least three binary classifier models to tune (logistic/linear regression, random forest, SVM, decision trees, naive bayes, etc).
+* Tune parameters and features (You can start off with training on all features)
+* Test resulting accuracies with cross validation
+* Explain your results, which models performed the best with tuning? (identify the bias/variance tradeoff for each model and select the best one at the end of tuning).
  |
 
 **Presentation**
