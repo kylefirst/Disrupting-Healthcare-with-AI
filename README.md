@@ -1,6 +1,6 @@
 For any questions or concerns about the course, please contact Kyle Liu (kliu1234@umd.edu) and/or Sanna Madan (smadan12@umd.edu).
 
-# CMSC389I: Disrupting Healthcare with AI
+# CMSC389I: Disrupting Healthcare with Artificial Intlligence
 ## Prerequisites: C- or better in CMSC250 and CMSC216
 ## Credits: 1
 
